@@ -1,0 +1,1 @@
+/data/sls/u/tianxing/projects/svaelm_201803/data/swb_da/all_tiancheng_proc/simple_proc/vocab_h10k.txt

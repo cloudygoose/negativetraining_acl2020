@@ -1,0 +1,1 @@
+python -c "import sys;[sys.stdout.write(' '.join(line.strip().split(' ')[1:-1]) + '\n') for line in sys.stdin]"
